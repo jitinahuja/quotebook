@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-i am master
-=======
-this is branch 2
->>>>>>> personal_quotes
+i am master		:wq
+				
